@@ -1,0 +1,11 @@
+{
+  "name": "posthtml-peoplesoft-binding",
+  "version": "0.1.0",
+  "description": "Replace style and script URLs with PeopleSoft bindings",
+  "main": "index.js",
+  "author": "Martín Ciparelli <mciparelli@gmail.com>",
+  "LICENSE": "UNLICENSED",
+  "peerDependencies": {
+    "posthtml": "^0.13.1"
+  }
+}
